@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TP7 Retrofit</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">TP 7 - API &amp; Retrofit</string>
+    <string name="nav_header_subtitle">Bellaajhamza7@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_liste">"Liste Etudiants "</string>
+    <string name="menu_ajout">Ajout d\'un Etudiant</string>
+    <string name="menu_detail">Détails étudiant</string>
+    <string name="titre">Liste des Etudiants</string>
+    <string name="id">Identifiant</string>
+    <string name="mail">Email</string>
+    <string name="classe">Classe</string>
+    <string name="cin">CIN</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="password">Mot de passe</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="rafraichir">Rafraîchir</string>
+    <string name="taj">Formulaire d\'ajout d\'etudiant</string>
+</resources>
